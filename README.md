@@ -1,5 +1,6 @@
 # Legal-Case-Mgmt-Platform
 ![Screenshot 2025-05-06 020610](https://github.com/user-attachments/assets/f89efa6f-45bd-430b-a2c8-ca481877cdcb)
+![Screenshot 2025-05-06 022600](https://github.com/user-attachments/assets/49739c9c-78ab-410a-9aad-ad5f0fa62a9f)
 ![Screenshot 2025-05-06 015246](https://github.com/user-attachments/assets/25537fa2-5d98-4dc0-8930-84544af39d70)
 ![Screenshot 2025-05-06 015336](https://github.com/user-attachments/assets/375097f5-ac6b-42e9-935f-633a48fe091d)
 ![Screenshot 2025-05-06 015607](https://github.com/user-attachments/assets/cd832f92-656c-439d-a718-cc0ba94a4881)
