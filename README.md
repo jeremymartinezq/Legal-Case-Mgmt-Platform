@@ -2,8 +2,16 @@
 
 An AI-powered Legal Case Management System that streamlines the entire legal case lifecycle, from intake to close, with advanced AI and ML capabilities.
 
-![Screenshot 2025-05-06 020610](https://github.com/user-attachments/assets/f89efa6f-45bd-430b-a2c8-ca481877cdcb)
-![Screenshot 2025-05-06 022600](https://github.com/user-attachments/assets/49739c9c-78ab-410a-9aad-ad5f0fa62a9f)
+![Screenshot 2025-05-06 024249](https://github.com/user-attachments/assets/62a425e6-a1ee-452e-8009-7c16432d50b7)
+![Screenshot 2025-05-06 024549](https://github.com/user-attachments/assets/5c1715fd-7c89-4ec3-bd35-3c5e683c7748)
+![Screenshot 2025-05-06 024730](https://github.com/user-attachments/assets/9abb99c6-51b8-4c13-913d-30a9c424ae00)
+![Screenshot 2025-05-06 024748](https://github.com/user-attachments/assets/a893e992-830f-4ea0-b802-a20d343ed053)
+![Screenshot 2025-05-06 024804](https://github.com/user-attachments/assets/1f75700d-856a-40fd-9c63-5a92b10e0692)
+![Screenshot 2025-05-06 024818](https://github.com/user-attachments/assets/ee72f350-2e24-4b32-b8f9-ce0fb8bed57f)
+![Screenshot 2025-05-06 024838](https://github.com/user-attachments/assets/ac748fb6-4de8-43b2-b321-5a74bfc4fecf)
+![Screenshot 2025-05-06 024853](https://github.com/user-attachments/assets/96ac9469-63d7-4c20-bebd-447f8f251737)
+![Screenshot 2025-05-06 024909](https://github.com/user-attachments/assets/7be1af93-ec23-4d9c-89a9-83ef76e35f8a)
+![Screenshot 2025-05-06 024926](https://github.com/user-attachments/assets/21ac619a-ec74-480b-afad-13d35fa983b3)
 ![Screenshot 2025-05-06 015246](https://github.com/user-attachments/assets/25537fa2-5d98-4dc0-8930-84544af39d70)
 ![Screenshot 2025-05-06 015336](https://github.com/user-attachments/assets/375097f5-ac6b-42e9-935f-633a48fe091d)
 ![Screenshot 2025-05-06 015607](https://github.com/user-attachments/assets/cd832f92-656c-439d-a718-cc0ba94a4881)
