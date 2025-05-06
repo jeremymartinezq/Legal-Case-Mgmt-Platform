@@ -1,4 +1,7 @@
-# Legal-Case-Mgmt-Platform
+# LexIntelAI - AI-Optimized Legal Case Management System
+
+An AI-powered Legal Case Management System that streamlines the entire legal case lifecycle, from intake to close, with advanced AI and ML capabilities.
+
 ![Screenshot 2025-05-06 020610](https://github.com/user-attachments/assets/f89efa6f-45bd-430b-a2c8-ca481877cdcb)
 ![Screenshot 2025-05-06 022600](https://github.com/user-attachments/assets/49739c9c-78ab-410a-9aad-ad5f0fa62a9f)
 ![Screenshot 2025-05-06 015246](https://github.com/user-attachments/assets/25537fa2-5d98-4dc0-8930-84544af39d70)
@@ -21,3 +24,79 @@
 ![Screenshot 2025-05-06 021156](https://github.com/user-attachments/assets/20a7e509-5e8e-4bb4-afb0-6ef69a139968)
 ![Screenshot 2025-05-06 014436](https://github.com/user-attachments/assets/2c7e188b-32f5-4de9-9e10-8a2630b8f5bd)
 
+
+## Features
+
+- **Case Management**: Complete case lifecycle tracking (intake → review → court → close)
+- **AI Contract Review**: LegalBERT-powered contract analysis for risk assessment and summaries
+- **Document Processing**: OCR with Tesseract and OpenCV for document digitization
+- **Legal Chatbot**: Intelligent assistant for bookings and legal Q&A
+- **Predictive Analytics**: ML models for case outcome prediction and billing anomaly detection
+- **Role-based Access**: Tailored interfaces for Clients, Attorneys, and Administrators
+
+## Tech Stack
+
+### Backend
+- FastAPI (Python)
+- PostgreSQL
+- Redis
+
+### Frontend
+- Next.js
+- TailwindCSS
+- TypeScript
+
+### AI/ML Components
+- LegalBERT for NLP
+- Tesseract + OpenCV for OCR
+- LangChain or Rasa for chatbot
+- PyTorch, Scikit-learn for ML models
+
+### Deployment
+- Docker
+- Kubernetes
+- Terraform on AWS
+
+## Project Structure
+
+```
+lexintelai/
+│
+├── backend/         # FastAPI backend
+├── frontend/        # Next.js frontend
+├── models/          # AI model files
+├── data/            # Data storage
+├── infra/           # Infrastructure as code
+├── notebooks/       # Jupyter notebooks for ML
+└── tests/           # Test files
+```
+
+## Getting Started
+
+### Prerequisites
+- Python 3.11+
+- Node.js 16+
+- Docker
+- PostgreSQL
+- Redis
+
+### Installation
+1. Clone the repository
+2. Set up the backend:
+   ```
+   cd backend
+   pip install -r requirements.txt
+   uvicorn app.main:app --reload
+   ```
+3. Set up the frontend:
+   ```
+   cd frontend
+   npm install
+   npm run dev
+   ```
+
+## License
+[MIT License](LICENSE) 
+
+## Author
+Developed by Jeremy Martinez-Quinones.
